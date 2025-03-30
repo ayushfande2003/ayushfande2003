@@ -3,5 +3,5 @@
 🌱 I’m currently learning advanced algorithms and deep learning techniques.
 💞️ I’m looking to collaborate on open-source projects and innovative AI applications.
 📫 How to reach me: ayushfande2003@gmail.com | Instagram:capital___18
-😄 Pronouns: He/Him
-⚡ Fun fact: I love solving Rubik's cubes and can solve one in under a minute!
+
+
