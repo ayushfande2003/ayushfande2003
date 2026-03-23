@@ -4,7 +4,9 @@ Full Stack AI/ML Intern @ Indux Technology
 🏆 Google Maps Hackathon – Global Winner  
 🎓 B.Tech AI & DS (CGPA: 9.0)
 
-I build practical AI systems using Computer Vision, Deep Learning & FastAPI.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI%2FML+Developer;Building+Real+World+AI+Projects;Computer+Vision+%7C+Deep+Learning;Hackathon+Winner+%F0%9F%8F%86" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-fande-14a658227/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ayushfande2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushfande2003@gmail.com) 
