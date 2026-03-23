@@ -6,12 +6,6 @@ Full Stack AI/ML Intern @ Indux Technology
 
 I build practical AI systems using Computer Vision, Deep Learning & FastAPI.
 
-Projects: ICU Alert System • Women Safety Mapping • Gesture AI  
-Tech: Python • OpenCV • TensorFlow • FastAPI  
-
-📫 linkedin.com/in/ayush-fande-14a658227/
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-fande-14a658227/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ayushfande2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushfande2003@gmail.com) 
 
