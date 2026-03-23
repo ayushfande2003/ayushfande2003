@@ -1,5 +1,15 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I’m currently working as a **Full Stack AI/ML Intern at Indux Technology**  <br>🏆 **Global-level Hackathon Winner (Google Maps Hackathon)**  <br>🎓 B.Tech in Artificial Intelligence & Data Science (CGPA: 9.0)<br><br>---<br><br>## 🚀 What I Do<br><br>- Build **AI-powered real-world solutions** (Healthcare, Safety Systems)<br>- Work on **Computer Vision (OpenCV, MediaPipe)**  <br>- Develop **ML/DL models (CNN, RNN, Deep Learning)**  <br>- Create **Full Stack apps using FastAPI + Frontend**  <br>- Interested in **GenAI, LLMs, and AI Agents**<br><br>---<br><br>## 🧠 Key Projects<br><br>- 🏥 **SafeSign ICU Alert System**  <br>  Real-time hand gesture + eye blink detection for emergency alerts  <br><br>- 🚺 **Women Safety Route Mapping System**  <br>  Smart safe-route prediction using maps + data  <br><br>- ✍️ **Handwritten Digit Recognition**  <br>  CNN-based model for digit classification  <br><br>- 🤟 **Sign Language / Gesture Communication Systems**  <br>  AI-based human interaction tools  <br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Languages:** Python, SQL, JavaScript  <br>**AI/ML:** TensorFlow, PyTorch, OpenCV, MediaPipe  <br>**Backend:** FastAPI, Flask  <br>**Frontend:** HTML, CSS, JS  <br>**Tools:** Git, GitHub, Power BI, Tableau  <br><br>---<br><br>## 🌱 Currently Learning<br><br>- Advanced **Deep Learning & Computer Vision**<br>- **Generative AI (LLMs, Agents)**<br>- **System Design & Scalable AI systems**<br><br>---<br><br>## 🤝 Looking For<br><br>- AI/ML Internship / Full-time Opportunities  <br>- Hackathons & Open Source Collaboration  <br>- Real-world impactful AI projects  <br><br>---<br><br>## 💬 Ask Me About<br><br>Machine Learning, Computer Vision, Projects, Hackathons, FastAPI  <br><br>---<br><br>## ⚡ Achievements<br><br>- 🏆 **Google Maps Hackathon – Global Winner**  <br>- 🎓 NPTEL Deep Learning (Elite)  <br>- 🧠 IBM Datathon Participant  <br>- 🚀 Built multiple real-world AI systems  <br><br>---<br><br>## 📫 Let's Connect<br><br>- LinkedIn: linkedin.com/in/ayush-fande-14a658227/<br>- GitHub: https://github.com/ayushfande2003<br>- Email: ayushfande2003@gmail.com<br><br>---<br><br>## ⚡ Fun Fact<br><br>I love building **practical AI systems that actually help people**, not just models 😄
+## 💫 About Me
+
+Full Stack AI/ML Intern @ Indux Technology  
+🏆 Google Maps Hackathon – Global Winner  
+🎓 B.Tech AI & DS (CGPA: 9.0)
+
+I build practical AI systems using Computer Vision, Deep Learning & FastAPI.
+
+Projects: ICU Alert System • Women Safety Mapping • Gesture AI  
+Tech: Python • OpenCV • TensorFlow • FastAPI  
+
+📫 linkedin.com/in/ayush-fande-14a658227/
 
 
 ## 🌐 Socials:
